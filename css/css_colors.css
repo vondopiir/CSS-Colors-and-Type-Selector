@@ -1,0 +1,64 @@
+*{
+	margin: 0;
+	padding: 0;
+	height: 100px;
+	text-align: center;
+}
+
+h1{
+	background-color: #98ddca;
+	color: #fff;
+}
+
+h2{
+	background-color: #d5ecc2;
+	color: grey;
+}
+
+h3{
+	background-color: #ffd3b4;
+	color: green;
+}
+
+p{
+	background-color: #ffaaa7;
+	color: brown;
+}
+
+a {
+	background-color: #798777;
+	color: #fff;
+}
+
+b{
+	background-color: #a2b29f;
+	color: white;
+}
+
+em{
+	background-color: #bdd2b6;
+	color: purple;
+}
+
+i{
+	background-color: #f8ede3;
+	color: olive;
+}
+
+mark{
+	background-color: #bfcba8;
+	color: black;
+}
+
+del{
+	background-color: #5b8a72;
+	color: khaki;
+}
+
+sub{
+	color: red;
+}
+
+sup{
+	color: #5f939a;
+}
